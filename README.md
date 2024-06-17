@@ -22,5 +22,5 @@ Deployement Link-https://dynamic-melba-bad16a.netlify.app/
 
 2. **To start the project:**
     ```sh
-    npm install
+    npm start
 
